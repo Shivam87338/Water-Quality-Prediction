@@ -17,6 +17,9 @@ Matplotlib, Seaborn – Data visualization
 Jupyter Notebook – Interactive experimentation
 Predicted Water Quality Parameters
 
+# MODEL LINK
+https://drive.google.com/file/d/18fv1GjWkAKnBt-HYBoZ-PU8YqtofOM-7/view?usp=sharing
+
 # The model predicts multiple water quality parameters such as:
 NH4
 BOD5 (BSK5)
